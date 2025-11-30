@@ -1,5 +1,5 @@
 
-<div align="center" font-weight="bold>
+<div align="center">
 Hello there, friend! 🦥
 </div>
 <!--
