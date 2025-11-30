@@ -34,6 +34,25 @@ I am Elanchezhiyan E, an MCA graduate from College of Engineering, <a href="http
   </a>
 </p>
 
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wraththevengeful&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
+  <br><br>
+  <!-- <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraththevengeful&theme=tokyonight&hide=html&exclude_repo=portfolio" alt="Top Languages" /> -->
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wraththevengeful&theme=tokyonight" alt="Streak" />
+</div>
+<br>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wraththevengeful&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+<br>
+
+
 
 <!--
 **wraththevengeful/wraththevengeful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
