@@ -26,6 +26,15 @@ I am Elanchezhiyan E, an MCA graduate from College of Engineering, <a href="http
 [<img src = "https://img.shields.io/badge/hackerrank-%2322DC060.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/profile/elanchezhiyan241)
 <br>
 
+## 🛠️ Technologies and Tools I use:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,sass,vite,mongodb,mysql,sqlite,expressjs,nodejs,spring,c,cpp,java,python,js,ts,bash,latex,md,linux,git,github,githubactions,gcp,aws,figma,wordpress,vscode,idea,androidstudio,postman&perline=8" />
+  </a>
+</p>
+
+
 <!--
 **wraththevengeful/wraththevengeful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
