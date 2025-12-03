@@ -8,13 +8,13 @@ I am Elanchezhiyan E, an MCA graduate from College of Engineering, <a href="http
 
 <br/>
 
-- 🍀 You can find more about me from **[my website](https://wraththevengeful.github.io/portfolio/)**
-- 🔭 I’m currently working on [markdown-pad](https://github.com/wraththevengeful/markdown-pad), a pesonal blog to share what I learn.
+- 🍀 You can find more about me from **[my website](https://elanchezhiyan2440.github.io/portfolio/)**
+- 🔭 I’m currently working on [markdown-pad](https://github.com/elanchezhiyan2440/markdown-pad), a pesonal blog to share what I learn.
 - 🌱 I’m currently learning `Java, Android and ML`
 - 👯 I’m looking to collaborate on `Dev Projects`
 
 <br><br/>
-- My portfolio made using ReactJS: [here](https://wraththevengeful.github.io/portfolio/)
+- My portfolio made using ReactJS: [here](https://elanchezhiyan2440.github.io/portfolio/)
 - My figma account: [here](https://www.figma.com/@Enyalius)
 - Also check out my leetcode: [here](https://leetcode.com/u/wraththevengeful/)
 - I do have a CS50 SQL certification [here](https://certificates.cs50.io/ae47bd1a-5948-464b-922b-74691779494a.pdf?size=letter)
@@ -40,7 +40,7 @@ I am Elanchezhiyan E, an MCA graduate from College of Engineering, <a href="http
   <a href="https://www.linkedin.com/in/elanchezhiyan2440/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
-  <a href="https://github.com/wraththevengeful" target="_blank">
+  <a href="https://github.com/elanchezhiyan2440" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
   </a> 
   <a href="mailto:elanchezhiyan2440@gmail.com" target="_blank">
@@ -51,17 +51,17 @@ I am Elanchezhiyan E, an MCA graduate from College of Engineering, <a href="http
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wraththevengeful&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=elanchezhiyan2440&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
   <br><br>
   <!-- <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraththevengeful&theme=tokyonight&hide=html&exclude_repo=portfolio" alt="Top Languages" /> -->
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wraththevengeful&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elanchezhiyan2440&theme=tokyonight" alt="Streak" />
 </div>
 <br>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wraththevengeful&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=elanchezhiyan2440&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 <br>
